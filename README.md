@@ -2,6 +2,8 @@
 
 A modern, professional, research-oriented academic portfolio website designed for **Najifa Anjum**, graduate student in Industrial and Production Engineering (IPE) at **Bangladesh University of Engineering and Technology (BUET)**.
 
+🌐 **Live Website:** [https://najifaanjum-1.github.io/Portfolio/](https://najifaanjum-1.github.io/Portfolio/)
+
 ---
 
 ## 🔬 Core Focus & Design Philosophy
@@ -140,7 +142,7 @@ This portfolio is 100% static and requires no build pipeline. To deploy for free
    ```
 3. Go to **Settings > Pages** in your GitHub repository.
 4. Under **Source**, select `Deploy from a branch` and choose `main` / `/ (root)`.
-5. Your website will be live in minutes at `https://najifaanjum.github.io/`!
+5. Your website is live at: **[https://najifaanjum-1.github.io/Portfolio/](https://najifaanjum-1.github.io/Portfolio/)**!
 
 ---
 
